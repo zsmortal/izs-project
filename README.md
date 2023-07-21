@@ -2,7 +2,7 @@
 
 ## Project setup
 ```
-pnpm i
+pnpm install
 ```
 
 ### Compiles and hot-reloads for development
